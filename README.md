@@ -33,7 +33,8 @@ The sales data is segmented by day of the week and time of day, revealing peak s
 - Peak Sales Hours: Generally around lunchtime (12 AM to 2 PM) and evening (5 PM to 8 PM).
 - Lowest Sales Day: Sunday with 2,624 orders.
 
-![Screenshot 2024-08-01 172558](https://github.com/user-attachments/assets/bc8402f1-8f88-4947-9daf-d30b73adf848)
+![Screenshot 2024-08-01 172558.png](https://raw.githubusercontent.com/Deepak2002kumar/Pizza_Sales_Power_BI_Report/main/Screenshot%202024-08-01%20172558.png)
+
 
 ### Sales by Quarter and Month
 Sales are relatively consistent throughout the year, with slight variations:
@@ -41,7 +42,7 @@ Sales are relatively consistent throughout the year, with slight variations:
 - Highest Sales Month: July with 4,400 units sold.
 - Lowest Sales Month: December with 3,900 units sold.
 - Quarterly Sales: Each quarter sees an average of around 4,150 units sold, indicating stable demand year-round.
-![Screenshot 2024-08-01 172925](https://github.com/user-attachments/assets/a6c53116-7f9b-4c19-86bc-314c6127ff78)
+![Screenshot 2024-08-01 172925.png](https://raw.githubusercontent.com/Deepak2002kumar/Pizza_Sales_Power_BI_Report/main/Screenshot%202024-08-01%20172925.png)
 
 ### Top-Selling Pizzas
 The report also highlights the most popular pizza varieties:
@@ -53,7 +54,7 @@ The report also highlights the most popular pizza varieties:
 - The Classic Deluxe Pizza: $38,180 (2,453 units)
 - The Spicy Italian Pizza: $34,831 (1,924 units)
   
-![Screenshot 2024-08-01 174017](https://github.com/user-attachments/assets/5ac4d56b-e53a-49d7-b03d-3d26a79cf85c)
+![Screenshot 2024-08-01 174017.png](https://raw.githubusercontent.com/Deepak2002kumar/Pizza_Sales_Power_BI_Report/main/Screenshot%202024-08-01%20174017.png)
 
 ### Analysis and Insights
 - Sales Consistency: The data shows consistent sales throughout the year, with only minor fluctuations, suggesting stable customer demand.
